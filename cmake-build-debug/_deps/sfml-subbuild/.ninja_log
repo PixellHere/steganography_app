@@ -1,0 +1,21 @@
+# ninja log v6
+1	17	1734952064139947138	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	867739b7fa4db1
+1	17	1734952064139947138	/Users/Kacper/CLionProjects/steganografia/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	867739b7fa4db1
+18	5420	1734952069542776820	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	ddc3ccf50f2eee7b
+18	5420	1734952069542776820	/Users/Kacper/CLionProjects/steganografia/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	ddc3ccf50f2eee7b
+5420	5473	1734952069543463962	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	8fde3bfccd0f5c7
+5420	5473	1734952069543463962	/Users/Kacper/CLionProjects/steganografia/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	8fde3bfccd0f5c7
+5473	5489	1734952069611147403	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	bc050cdce2967f18
+5473	5489	1734952069611147403	/Users/Kacper/CLionProjects/steganografia/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	bc050cdce2967f18
+5489	5503	1734952069625913030	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	1e4a96ca0c28c036
+5489	5503	1734952069625913030	/Users/Kacper/CLionProjects/steganografia/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	1e4a96ca0c28c036
+5504	5518	1734952069640544619	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	5f4834cf250fd72f
+5504	5518	1734952069640544619	/Users/Kacper/CLionProjects/steganografia/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	5f4834cf250fd72f
+5518	5533	1734952069655597152	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	43d6257e3dad356c
+5518	5533	1734952069655597152	/Users/Kacper/CLionProjects/steganografia/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	43d6257e3dad356c
+5533	5548	1734952069670539314	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	23e8934087639ff2
+5533	5548	1734952069670539314	/Users/Kacper/CLionProjects/steganografia/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	23e8934087639ff2
+5548	5569	1734952069691211641	CMakeFiles/sfml-populate-complete	811a6330929c01e9
+5548	5569	1734952069691211641	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	811a6330929c01e9
+5548	5569	1734952069691211641	/Users/Kacper/CLionProjects/steganografia/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	811a6330929c01e9
+5548	5569	1734952069691211641	/Users/Kacper/CLionProjects/steganografia/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	811a6330929c01e9
