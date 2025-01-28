@@ -27,8 +27,7 @@ git clone <repository-url>
 cd <repository-name>
 
 Build using CMake:
-cmake -B build
-cmake --build build
+cmake -B build -> cmake --build build
 
 Run the application:
 ./build/steganografia
